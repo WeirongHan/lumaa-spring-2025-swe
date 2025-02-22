@@ -1,0 +1,39 @@
+.task-container {
+    padding: 10px;
+    margin: 20px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .task-title {
+    color: #333;
+  }
+  
+  .note-date {
+    color: #999;
+    font-size: 0.8rem;
+  }
+  
+  .delete-button {
+    background-color: #f44336;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+
+  .update-button {
+    background-color: #259b4e;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+
+  .delete-button:hover {
+    background-color: #d32f2f;
+  }
