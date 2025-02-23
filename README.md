@@ -30,7 +30,7 @@
 - **Start Backend Server**:  
   - npm run dev
 - **Notes**:  
-  - Remeber to modify DB and Port settings in .env file with respect to your device
+  - Remeber to modify DB related environment variables and Port settings in .env file with respect to your device
 
 ### 3. Frontend
 - **Install Dependencies**:  
