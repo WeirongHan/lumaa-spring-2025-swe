@@ -24,12 +24,9 @@
 
 - **Install Dependencies**:  
   - cd backend
-  - npm init -y
-  - npm i express   
-  - npm i -D nodemon   
-  - npm i dotenv pg
-  - npm i bcrypt
-  - npm i jsonwebtoken
+  - npm install
+  - npm i -D nodemon 
+  - npm i express dotenv pg bcrypt jsonwebtoken
 - **Start Backend Server**:  
   - npm run dev
 - **Notes**:  
@@ -38,6 +35,7 @@
 ### 3. Frontend
 - **Install Dependencies**:  
   - cd frontend
+  - npm install
   - npm install axios react-router-dom jwt-decode
 - **Start Frontend Server**:  
   - npm run dev
